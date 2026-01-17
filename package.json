@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "win-dev": "set NEXT_TELEMETRY_DISABLED=1 && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
