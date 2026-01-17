@@ -17,6 +17,10 @@ export const metadata: Metadata = {
     title: 'Coming Soon - Khalis Roots',
     description: 'Khalis Roots - Something amazing is coming soon. Stay tuned for our launch!',
     keywords: ['Khalis Roots', 'coming soon', 'launch'],
+    icons: {
+        icon: '/logo.png',
+        apple: '/logo.png',
+    }
 }
 
 export default function RootLayout({
